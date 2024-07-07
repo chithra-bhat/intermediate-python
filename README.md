@@ -1,1 +1,1 @@
-# intermediate-python
+# Intermediate Python
