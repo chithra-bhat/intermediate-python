@@ -45,3 +45,17 @@
   - [View Objects](https://docs.python.org/3/library/stdtypes.html#dictionary-view-objects)
   - [Mapping Types](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict)
   - [Dictionaries](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)
+ 
+- **Sets**
+  - [Sets](https://docs.python.org/3/tutorial/datastructures.html#sets)
+  - [Set Types](https://docs.python.org/3/library/stdtypes.html#set-types-set-frozenset)
+
+- **Comprehensions**
+  - [List Comprehensions](https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions)
+  - [Dict Comprehensions](https://peps.python.org/pep-0274/)
+
+- **Edge Cases**
+  - [Collections](https://docs.python.org/3/library/collections.html)
+  - [Binary Sequence Types](https://docs.python.org/3/library/stdtypes.html#binary-sequence-types-bytes-bytearray-memoryview)
+  - [The global statement](https://docs.python.org/3/reference/simple_stmts.html#global)
+  - [The nonlocal statement](https://docs.python.org/3/reference/simple_stmts.html#nonlocal) 
