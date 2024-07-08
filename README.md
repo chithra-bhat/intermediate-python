@@ -1,4 +1,4 @@
-# Intermediate Python
+# Intermediate Python Nanodegree
 
 ## Further Reading
 
@@ -21,3 +21,9 @@
   - [isinstance](https://docs.python.org/3/library/functions.html#isinstance)
   - [type](https://docs.python.org/3/library/functions.html#type)
   - [Objects, Values and Types](https://docs.python.org/3/reference/datamodel.html#objects-values-and-types)
+
+- **Variables and Namespaces**
+  - [Duck Typing(GeeksforGeeks)](https://www.geeksforgeeks.org/duck-typing-in-python/)
+  - [Duck Typing(Real Python)](https://realpython.com/lessons/duck-typing/)
+  - [Names and Objects](https://docs.python.org/3/tutorial/classes.html#a-word-about-names-and-objects)
+  - [Scopes and Namespaces](https://docs.python.org/3/tutorial/classes.html#python-scopes-and-namespaces)
