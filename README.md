@@ -6,7 +6,7 @@ This Python Nanodegree has two main courses:
    This course is further divided into:
    - Data manipulation fundamentals
    - Functional programming concepts
-   - Object-based design principles
+   - Object-oriented programming
    - File I/O essentials
 
 2. **Large Python Codebases with Libraries**:
