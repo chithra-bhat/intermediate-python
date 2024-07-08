@@ -40,3 +40,8 @@
   - [Mutable Sequence Types](https://docs.python.org/3/library/stdtypes.html#mutable-sequence-types)
   - [Range](https://docs.python.org/3/library/stdtypes.html#ranges)
   - [Sequence Types](https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range)
+
+- **Dictionaries**
+  - [View Objects](https://docs.python.org/3/library/stdtypes.html#dictionary-view-objects)
+  - [Mapping Types](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict)
+  - [Dictionaries](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)
