@@ -27,3 +27,9 @@
   - [Duck Typing(Real Python)](https://realpython.com/lessons/duck-typing/)
   - [Names and Objects](https://docs.python.org/3/tutorial/classes.html#a-word-about-names-and-objects)
   - [Scopes and Namespaces](https://docs.python.org/3/tutorial/classes.html#python-scopes-and-namespaces)
+ 
+- **Lists**
+  - [Lists](https://docs.python.org/3/library/stdtypes.html#lists)
+
+- **Tuples**
+  - [Tuples](https://docs.python.org/3/library/stdtypes.html#tuples)
