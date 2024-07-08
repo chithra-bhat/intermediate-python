@@ -1,5 +1,17 @@
 # Intermediate Python Nanodegree
 
+This Python Nanodegree has two main courses:
+
+1. **Advanced Python Techniques**:
+   This course is further divided into:
+   - Data manipulation fundamentals
+   - Functional programming concepts
+   - Object-based design principles
+   - File I/O essentials
+
+2. **Large Python Codebases with Libraries**:
+
+   
 ## Further Reading
 
 - **Data Structures**
