@@ -1,6 +1,6 @@
 # Intermediate Python Nanodegree
 
-This Python Nanodegree has two main courses:
+This Nanodegree has two main courses:
 
 1. **Advanced Python Techniques**:
    This course is further divided into:
@@ -12,7 +12,7 @@ This Python Nanodegree has two main courses:
 2. **Large Python Codebases with Libraries**:
 
    
-### Further Reading
+## Further Reading
 
 - **Data Structures**
   - [collections.abc - Python's "Abstract Base Classes for Containers"](https://docs.python.org/3/library/collections.abc.html)
