@@ -70,4 +70,6 @@ This Nanodegree has two main courses:
   - [Collections](https://docs.python.org/3/library/collections.html)
   - [Binary Sequence Types](https://docs.python.org/3/library/stdtypes.html#binary-sequence-types-bytes-bytearray-memoryview)
   - [The global statement](https://docs.python.org/3/reference/simple_stmts.html#global)
-  - [The nonlocal statement](https://docs.python.org/3/reference/simple_stmts.html#nonlocal) 
+  - [The nonlocal statement](https://docs.python.org/3/reference/simple_stmts.html#nonlocal)
+ 
+- **File I/O**
