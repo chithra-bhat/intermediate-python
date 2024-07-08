@@ -33,3 +33,10 @@
 
 - **Tuples**
   - [Tuples](https://docs.python.org/3/library/stdtypes.html#tuples)
+ 
+- **Comparing Sequence Types**
+  - [Common Sequence Operations](https://docs.python.org/3/library/stdtypes.html#common-sequence-operations)
+  - [Immutable Sequence Types](https://docs.python.org/3/library/stdtypes.html#immutable-sequence-types)
+  - [Mutable Sequence Types](https://docs.python.org/3/library/stdtypes.html#mutable-sequence-types)
+  - [Range](https://docs.python.org/3/library/stdtypes.html#ranges)
+  - [Sequence Types](https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range)
