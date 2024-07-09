@@ -6,13 +6,15 @@ This Nanodegree has two main courses:
    This course is further divided into:
    - Data manipulation fundamentals
    - Functional programming concepts
-   - Object-oriented programming
+   - Object-oriented programming concepts
    - File I/O essentials
 
 2. **Large Python Codebases with Libraries**:
 
    
 ## Further Reading
+
+### Data Manipulation
 
 - **Data Structures**
   - [collections.abc - Python's "Abstract Base Classes for Containers"](https://docs.python.org/3/library/collections.abc.html)
@@ -71,7 +73,10 @@ This Nanodegree has two main courses:
   - [Binary Sequence Types](https://docs.python.org/3/library/stdtypes.html#binary-sequence-types-bytes-bytearray-memoryview)
   - [The global statement](https://docs.python.org/3/reference/simple_stmts.html#global)
   - [The nonlocal statement](https://docs.python.org/3/reference/simple_stmts.html#nonlocal)
+
+### File I/O
  
 - **File I/O**
    - [collections.Counter](https://docs.python.org/3/library/collections.html#collections.Counter)
-   - 
+   - [JSON Overview](https://www.json.org/json-en.html)
+   - [Working with JSON in Python](https://realpython.com/python-json/)
