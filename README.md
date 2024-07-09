@@ -73,3 +73,5 @@ This Nanodegree has two main courses:
   - [The nonlocal statement](https://docs.python.org/3/reference/simple_stmts.html#nonlocal)
  
 - **File I/O**
+   - [collections.Counter](https://docs.python.org/3/library/collections.html#collections.Counter)
+   - 
