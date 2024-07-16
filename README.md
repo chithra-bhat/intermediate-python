@@ -15,7 +15,6 @@ This Nanodegree has two main courses:
 ## Further Reading
 
 ### Data Manipulation
-
 - **Data Structures**
   - [collections.abc - Python's "Abstract Base Classes for Containers"](https://docs.python.org/3/library/collections.abc.html)
 
@@ -74,8 +73,13 @@ This Nanodegree has two main courses:
   - [The global statement](https://docs.python.org/3/reference/simple_stmts.html#global)
   - [The nonlocal statement](https://docs.python.org/3/reference/simple_stmts.html#nonlocal)
 
+### Functions and Functional Programming
+- **Introduction**
+    - [Programming Paradigms](https://en.wikipedia.org/wiki/Programming_paradigm)
+    - [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
+    
+    
 ### File I/O
- 
 - **File I/O**
    - [collections.Counter](https://docs.python.org/3/library/collections.html#collections.Counter)
    - [JSON Overview](https://www.json.org/json-en.html)
