@@ -81,7 +81,7 @@ This Nanodegree has two main courses:
     - [Keyword Arguments](https://docs.python.org/3/tutorial/controlflow.html#keyword-arguments)
     - [Special Parameters](https://docs.python.org/3/tutorial/controlflow.html#special-parameters)
 - **Variadic Positional and Keyword Arguments**
-    - [Variadiac Arbitrary Argument List `*args`](https://docs.python.org/3/tutorial/controlflow.html#arbitrary-argument-lists)
+    - [Variadiac Arbitrary Argument Lists](https://docs.python.org/3/tutorial/controlflow.html#arbitrary-argument-lists)
     - [Unpacking Argument Lists](https://docs.python.org/3/tutorial/controlflow.html#unpacking-argument-lists)
     -
      
