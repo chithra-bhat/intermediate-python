@@ -85,6 +85,16 @@ This Nanodegree has two main courses:
     - [Unpacking Argument Lists](https://docs.python.org/3/tutorial/controlflow.html#unpacking-argument-lists)
 - **First Class Functions**
     - [First Class Functions in Python](https://www.geeksforgeeks.org/first-class-functions-python/)
+- **Code Style**
+    - [PEP 8 by Kenneth Reitz](https://pep8.org/)
+    - [Python Style Guide by Google](https://google.github.io/styleguide/pyguide.html)
+    - [Intermezzo: Coding Style](https://docs.python.org/3/tutorial/controlflow.html#intermezzo-coding-style)
+    - [PEP 257 - Docstring Conventions](https://peps.python.org/pep-0257/)
+    - [Code Style](https://docs.python-guide.org/writing/style/)
+- **Higher Order Functions**
+    - [map, filter and reduce](https://www.learnpython.org/en/Map,_Filter,_Reduce)
+    - [Lambda Functions](https://docs.python.org/3/tutorial/controlflow.html#lambda-expressions)
+
      
 ### File I/O
 - **File I/O**
