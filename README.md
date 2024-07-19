@@ -83,7 +83,8 @@ This Nanodegree has two main courses:
 - **Variadic Positional and Keyword Arguments**
     - [Variadiac Arbitrary Argument Lists](https://docs.python.org/3/tutorial/controlflow.html#arbitrary-argument-lists)
     - [Unpacking Argument Lists](https://docs.python.org/3/tutorial/controlflow.html#unpacking-argument-lists)
-    -
+- **First Class Functions**
+    - [First Class Functions in Python](https://www.geeksforgeeks.org/first-class-functions-python/)
      
 ### File I/O
 - **File I/O**
