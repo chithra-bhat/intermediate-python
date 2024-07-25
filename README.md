@@ -94,7 +94,14 @@ This Nanodegree has two main courses:
 - **Higher Order Functions**
     - [map, filter and reduce](https://www.learnpython.org/en/Map,_Filter,_Reduce)
     - [Lambda Functions](https://docs.python.org/3/tutorial/controlflow.html#lambda-expressions)
-
+- **Iterators and Generators**
+    - [Built-in Functions](https://docs.python.org/3/library/functions.html)
+    - [Generators in Python](https://realpython.com/introduction-to-python-generators/)
+    - [HowTo Generators](https://docs.python.org/3/howto/functional.html#generators)
+    - [HowTo Iterators](https://docs.python.org/3/howto/functional.html#iterators)
+    - [Iterables vs Iterators](https://www.geeksforgeeks.org/python-difference-iterable-iterator/)
+    - [PEP 289](https://peps.python.org/pep-0289/)
+    
      
 ### File I/O
 - **File I/O**
